@@ -1,0 +1,20 @@
+body {
+    background-image: url("../images/big_beatles.jpg"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    
+    
+}
+.container{
+    width: 600px;
+    height: 400px;
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+    
+}
+h1 {
+    text-align: center;
+}
